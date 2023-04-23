@@ -1,0 +1,4 @@
+Dawno dawno temu w świecie IT, procesory miały zaledwie kilka megaherców, a pamięć RAM była mierzona w kilobajtach. Wtedy to programiści pracowali na maszynach wielkości lodówki, a kod programów zapisywano na taśmach dziurkowanych. Wraz z rozwojem technologii, pojawiły się komputery osobiste, a systemy operacyjne stały się coraz bardziej złożone i intuicyjne. Wraz z upowszechnieniem Internetu, powstały nowe możliwości tworzenia oprogramowania oraz szybsza wymiana informacji między użytkownikami. Obecnie w IT pracuje już nie tylko garstka specjalistów, ale branża ta zatrudnia dziesiątki tysięcy ludzi na całym świecie. Rozwój technologiczny nadal postępuje, a programiści ciągle pracują nad tworzeniem innowacyjnych rozwiązań, które ułatwią codzienne życie użytkowników.
+
+Adam Deneko
+Kacper Słabik
