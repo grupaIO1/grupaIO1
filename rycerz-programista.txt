@@ -1,0 +1,17 @@
+tytuł: rycerz-programista
+
+Dawno dawno temu w królestwie Eldorado żył dzielny rycerz imieniem Johny.
+Jego umiejętności walki były nie do pobicia, a szczególnie władanie
+katanami, dzięki czemu z łatwością zabijał smoki jednym cięciem.
+Ale Johny miał również drugie hobby, które nie miało nic wspólnego
+z walką - uczył się programowania w JavaScript. Po godzinach pochłaniał
+się nauką i doskonalił swoje umiejętności, wierząc że technologia może
+być równie potężna jak jego miecze. Kiedy smok zaatakował
+królestwo, Johny natychmiast ruszył na jego spotkanie. Dzięki swoim umiejętnościom
+udało mu się pokonać potwora, a ludzie królestwa uznali go za bohatera.
+Jednak Johny nie przestał uczyć się programowania, wierząc że to właśnie
+technologia może pomóc mu w obronie królestwa w przyszłości.
+
+Autorzy:
+Marcel Nędza
+Konrad Zgryźniak
